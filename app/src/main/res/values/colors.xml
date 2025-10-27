@@ -1,10 +1,12 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
-    <color name="colorPrimary">@color/greenGma</color>
+    <color name="colorPrimary">@color/gmaPurple</color>
     <color name="colorPrimaryDark">@color/black</color>
-    <color name="colorAccent">@color/mvxPink</color>
+    <color name="colorAccent">@color/gmaGreen</color>
 
-    <color name="greenGma">#1F6427</color>
+    <color name="gmaGreen">#1F6427</color>
+    <color name="gmaPurple">#491f64</color>
+    <color name="gmaPink">#CA5583</color>
 
     <color name="twistedBlue">#00b1ff</color>
     <color name="twistedLight">#ddf2ff</color>
